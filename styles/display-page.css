@@ -1,0 +1,42 @@
+main {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 0;
+}
+
+.green {
+  display: inline-block;
+  width: 50%;
+  background-color: green;
+  height: 200px;
+  
+}
+
+.blue {
+  display: inline-block;
+  width: 50%;
+  background-color: blue;
+  height: 200px;
+}
+
+.gray {
+  display: inline-block;
+  width: 33.33%;
+  background-color: gray;
+  height: 300px;
+}
+
+.black {
+  display: inline-block;
+  width: 33.33%;
+  background-color: black;
+  height: 300px;
+}
+
+.orange {
+  display: inline-block;
+  width: 33.33%;
+  background-color: orange;
+  height: 300px;
+}
