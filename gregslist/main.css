@@ -1,0 +1,25 @@
+.container {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+nav {
+  height: 60px;
+  display: block;
+  background-color: gray;
+}
+
+nav h1 {
+  float: left;
+}
+
+nav ul {
+  float: right;
+  display: inline-block;
+  list-style: none;
+}
+
+nav a {
+  
+}
+
